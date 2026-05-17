@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+
+<title>ようこそ、深海遊園地へ</title>
+
+<meta property="og:title" content="ようこそ、深海遊園地へ">
+<meta property="og:description" content="PL3 アイ">
+<meta property="og:image" content="https://honoyori-shion.github.io/game-assets/reports/2026-05-15/PC3_.jpg">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://honoyori-shion.github.io/game-assets/reports/2026-05-15/">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://honoyori-shion.github.io/game-assets/reports/2026-05-15/PC3_.jpg">
+
+</head>
+<body>
+  <img src="PC3_.jpg">
+</body>
+</html>
